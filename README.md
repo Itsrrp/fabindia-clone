@@ -17,5 +17,6 @@ A collaborative project built by a team of 4 executed in 4 days. </p>
 
 ![fabindia](https://user-images.githubusercontent.com/70104100/159648061-2451a780-4418-4a6f-95fd-fd4bd5f47ee2.png)
 
-<p></p>
-![Screenshot from 2022-03-29 23-46-34](https://user-images.githubusercontent.com/70104100/160679179-032f94a9-fc81-46ff-b106-dcafe4bd9273.png)
+![fab](https://user-images.githubusercontent.com/70104100/160679686-3c488122-79b6-4931-97ed-ed86f28bda36.png)
+
+
