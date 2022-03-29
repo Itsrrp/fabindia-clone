@@ -8,7 +8,7 @@
 
 <h3>Features: </h3>
 <P>Social Sign-in/Sign-up <br>
-Location-based vehicle gallery<br> 
+All catgories avilable<br> 
 User authentication
 </p>
 <h3>Areas of responsibility: </h3>
